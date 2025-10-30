@@ -69,14 +69,6 @@ go build -o <binary-name> .
 ./build-all.sh
 ```
 
-## 📝 ライセンス
-
-MIT
-
-## 🤝 コントリビューション
-
-Issue、Pull Requestを歓迎します！
-
 ## 🔗 参考
 
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - インスピレーション元
