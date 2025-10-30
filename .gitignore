@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Built binaries
+kube-ops-tui
+kube-view/kube-ops-tui
+kube-exec/kube-exec
+kube-logs/kube-logs
+kube-switch/kube-switch
+kube-resource/kube-resource
+kube-events/kube-events
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+
+# Vendor
+vendor/
