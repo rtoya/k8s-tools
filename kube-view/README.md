@@ -217,10 +217,6 @@ var (
 - [ ] マウスサポート（クリックで選択）
 - [ ] 検索機能（Pod名やNamespaceでフィルター）
 
-## ライセンス
-
-MIT
-
 ## 参考
 
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view)
